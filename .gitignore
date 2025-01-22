@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,pycharm,django,flask
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,pycharm,django,flask
 
+### Custom ###
+test_.*
+
 ### Django ###
 *.log
 *.pot
