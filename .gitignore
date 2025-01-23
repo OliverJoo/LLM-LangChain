@@ -3,6 +3,7 @@
 
 ### Custom ###
 test_.*
+*.mp3
 
 ### Django ###
 *.log
