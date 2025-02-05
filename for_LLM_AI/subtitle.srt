@@ -1,0 +1,405 @@
+1
+00:00:00,000 --> 00:00:03,920
+AI just got some serious shake-up, and it's all because of DeepSeek.
+
+2
+00:00:03,920 --> 00:00:09,440
+This new AI model isn't just another release, it's a game-changer. It's got OpenAI scrambling,
+
+3
+00:00:09,440 --> 00:00:14,560
+NVIDIA stopped taking hits, and the AI industry rethinking everything. And you might ask why?
+
+4
+00:00:14,560 --> 00:00:18,480
+This is because it delivers top-tier AI performance for a fraction
+
+5
+00:00:18,480 --> 00:00:21,280
+of the usual cost, and it was built in the last two months.
+
+6
+00:00:21,280 --> 00:00:26,320
+If AI companies no longer need billion-dollar budgets to train their models, what happens next?
+
+7
+00:00:26,320 --> 00:00:27,360
+Let's break it down.
+
+8
+00:00:27,360 --> 00:00:32,959
+So, what is DeepSeek R1? In simple terms, it's an open-source AI model out of China
+
+9
+00:00:32,959 --> 00:00:37,279
+that's punching way above its weight. In fact, it's on par with OpenAI's $200-per-month
+
+10
+00:00:37,279 --> 00:00:42,400
+R1 model at a lot of things like coding, research, and even maths. And it's free.
+
+11
+00:00:42,400 --> 00:00:46,080
+You can even host it yourself if you don't trust them. But what makes it really special
+
+12
+00:00:46,080 --> 00:00:50,400
+is the fact that it was trained for just $5.5 million, roughly $6 million.
+
+13
+00:00:50,959 --> 00:00:55,680
+In the AI world right now, that's like getting a brand new Tesla for the price of a used Honda
+
+14
+00:00:56,320 --> 00:01:01,599
+Civic. Compare that to OpenAI's GPT-4, which reportedly costs upwards of $200 million to train.
+
+15
+00:01:01,599 --> 00:01:03,919
+And you start to see why this is making waves.
+
+16
+00:01:03,919 --> 00:01:06,000
+But here's where everything gets crazier.
+
+17
+00:01:06,000 --> 00:01:09,199
+DeepSeek R1 wasn't trained on NVIDIA's most powerful GPUs.
+
+18
+00:01:09,199 --> 00:01:14,320
+Thanks to US sanctions, China doesn't have access to NVIDIA's cutting-edge AI chips like
+
+19
+00:01:14,320 --> 00:01:19,919
+the H100. Instead, they have to make do with the H800, which are essentially NVIDIA's
+
+20
+00:01:19,919 --> 00:01:24,480
+nerfed versions for the Chinese market. And yet, despite their hardware disadvantage,
+
+21
+00:01:24,480 --> 00:01:30,239
+DeepSeek R1 performs on par with OpenAI's O1 model, and even clawed 3.5% from Anthropic.
+
+22
+00:01:30,239 --> 00:01:32,239
+Now, let's talk about why this matters.
+
+23
+00:01:32,239 --> 00:01:37,120
+First off, NVIDIA's stock took a hit. You may be thinking why? Because if AI companies
+
+24
+00:01:37,120 --> 00:01:42,239
+can train high-performing models using cheaper and less powerful hardware, it is assumed that
+
+25
+00:01:42,239 --> 00:01:47,120
+the demand for NVIDIA's top-tier AI chips could shrink. And considering NVIDIA's valuation has
+
+26
+00:01:47,120 --> 00:01:52,639
+been largely propped by the AI boom, anything that threatens that demand sends investors into
+
+27
+00:01:52,639 --> 00:01:57,360
+a panic. And it's not just NVIDIA feeling the heat. If AI models can now be trained
+
+28
+00:01:57,360 --> 00:02:02,720
+cheaper and more efficiently, companies like OpenAI, Google, and Microsoft have to rethink
+
+29
+00:02:02,720 --> 00:02:07,680
+their strategies. DeepSeek's open-source decision has already forced OpenAI into action. I mean,
+
+30
+00:02:07,680 --> 00:02:11,839
+Sam Altman announced that the O1 model, which was previously locked behind a paywall,
+
+31
+00:02:11,839 --> 00:02:16,800
+will now be free. Clearly, a reaction to DeepSeek making cutting-edge AI accessible to everyone.
+
+32
+00:02:16,800 --> 00:02:21,440
+OpenAI realizes that if people have to access a powerful model like DeepSeek R1,
+
+33
+00:02:21,440 --> 00:02:24,320
+they need to match that move or risk losing their dominance.
+
+34
+00:02:24,320 --> 00:02:28,960
+DeepSeek R1 is already proving to be a serious competitor in the AI space. On the App Store
+
+35
+00:02:28,960 --> 00:02:34,479
+right now, it has overtaken ChatGPT to become one of the most downloaded AI apps. This isn't
+
+36
+00:02:34,479 --> 00:02:39,039
+just a niche product for AI enthusiasts. Regular users are flocking to it, knowing that there is
+
+37
+00:02:39,039 --> 00:02:43,919
+a real demand for an open-source alternative to OpenAI's world-guarding approach.
+
+38
+00:02:43,919 --> 00:02:48,720
+But here's where things get really interesting. The AI arms race just entered a new phase,
+
+39
+00:02:48,720 --> 00:02:53,679
+and one where open-source models are becoming serious contenders. And that means AI development
+
+40
+00:02:53,679 --> 00:02:59,679
+could start moving at an even faster pace. Think about it. When OpenAI keeps ChatGPT-4 under lock
+
+41
+00:02:59,679 --> 00:03:04,559
+and key, only a handful of companies get to improve it. But when a model like DeepSeek R1
+
+42
+00:03:04,559 --> 00:03:08,960
+is released as open-source, thousands of developers around the world can refine it,
+
+43
+00:03:08,960 --> 00:03:13,520
+optimize it, and push the technology forward in ways a single company never could.
+
+44
+00:03:13,520 --> 00:03:16,880
+This could be the beginning of the end for closed-source AI dominance.
+
+45
+00:03:16,880 --> 00:03:20,800
+I know there's glamour from Meta, but it's good to see that there are more options out there
+
+46
+00:03:20,800 --> 00:03:25,839
+doing the same thing. One of the biggest advantages of open-source AI models like DeepSeek R1
+
+47
+00:03:25,839 --> 00:03:31,360
+is accessibility. Unlike proprietary models such as OpenAI's GPT-4, which requires massive funding
+
+48
+00:03:31,360 --> 00:03:36,000
+and closed-door collaborations, open-source models lower the barrier to entry. Take Meta's
+
+49
+00:03:36,000 --> 00:03:40,960
+glamour models for example. These pre-trained models allow developers, researchers, and startups
+
+50
+00:03:40,960 --> 00:03:45,360
+to build upon them rather than starting from scratch, which would be nearly impossible for
+
+51
+00:03:45,360 --> 00:03:50,960
+individuals due to their high computational and financial costs. Additionally, open-source
+
+52
+00:03:50,960 --> 00:03:55,600
+approach encourages transparency, allowing researchers to scrutinize the model, detect
+
+53
+00:03:55,600 --> 00:04:00,880
+biases, and improve the safety measures. With more eyes on the code and training methodologies,
+
+54
+00:04:00,880 --> 00:04:05,279
+AI development becomes more accountable and aligned with real-world applications.
+
+55
+00:04:05,279 --> 00:04:09,919
+This kind of collaborative progress is something that closed-source models can't replicate at
+
+56
+00:04:09,919 --> 00:04:14,080
+the same scale. While DeepSeek R1 is the model everyone is talking about right now,
+
+57
+00:04:14,160 --> 00:04:18,799
+it's actually DeepSeek V3 running underneath, and this is how it works. I mean, this is a simplified
+
+58
+00:04:18,799 --> 00:04:23,359
+version of how it works, but it's much more complex in real life. DeepSeek uses an approach
+
+59
+00:04:23,359 --> 00:04:28,160
+called mixture of experts. Instead of treating every query as a general problem, it delegates
+
+60
+00:04:28,160 --> 00:04:32,959
+tasks to specialized sub-models trained for specific functions. So when you ask DeepSeek
+
+61
+00:04:32,959 --> 00:04:37,519
+a question, it figures which experts should handle it and routes that question or request
+
+62
+00:04:37,519 --> 00:04:41,920
+accordingly. This means that if you're running an 8 billion parameter model, it doesn't need to
+
+63
+00:04:41,920 --> 00:04:46,559
+load all the 8 billion parameters into memory, just the portion relevant to your query. That
+
+64
+00:04:46,559 --> 00:04:51,920
+dramatically reduces the memory usage, speeds up the response time, and lowers the power consumption.
+
+65
+00:04:51,920 --> 00:04:56,720
+It's a smarter and more efficient way to handle AI processing. I've personally spent the past
+
+66
+00:04:56,720 --> 00:05:01,760
+three days extensively testing DeepSeek R1, and I have to say it's an absolute game-changer.
+
+67
+00:05:01,760 --> 00:05:06,720
+It showcases an advanced level of reasoning, handling complex logical problems with a
+
+68
+00:05:06,720 --> 00:05:11,119
+precision I've rarely seen in open-source AI. It has the ability to perform chain-of-thought
+
+69
+00:05:11,119 --> 00:05:15,679
+reasoning, so instead of spitting out an answer immediately, it works through the problem step
+
+70
+00:05:15,679 --> 00:05:20,160
+by step, evaluating and even correcting itself in real-time. You'll see the whole thought process
+
+71
+00:05:20,160 --> 00:05:25,279
+as it runs. If DeepSeek can achieve this level of reasoning with lower-cost training, it suggests
+
+72
+00:05:25,279 --> 00:05:30,079
+that AI models no longer need billion-dollar budgets. That completely shifts the AI race,
+
+73
+00:05:30,079 --> 00:05:34,720
+making high-end capabilities accessible to more players, and potentially threatening the current
+
+74
+00:05:34,720 --> 00:05:39,760
+AI giants who have relied on their deep pockets to maintain dominance. Some analysts are questioning
+
+75
+00:05:39,760 --> 00:05:45,279
+whether DeepSeek R1 was really trained on as few GPUs as claimed. Others speculate that China might
+
+76
+00:05:45,279 --> 00:05:50,640
+have secretly used more powerful hardware, or borrowed techniques from existing Western models.
+
+77
+00:05:50,640 --> 00:05:56,079
+I even saw screenshots of DeepSeek responding as ChatGPT on the web, and that allegedly means it
+
+78
+00:05:56,079 --> 00:06:00,720
+was trained on ChatGPT's data. I can't really verify how true that is, but even if there's
+
+79
+00:06:00,720 --> 00:06:05,760
+some truth to that, it doesn't change the bigger picture. AI is getting cheaper and more accessible.
+
+80
+00:06:05,760 --> 00:06:09,679
+By the way, if you're skeptical about data privacy and worried about DeepSeek
+
+81
+00:06:09,679 --> 00:06:14,160
+sending your queries to Chinese servers, let's be real, who says America isn't doing that right now?
+
+82
+00:06:14,160 --> 00:06:19,040
+Allegedly. The good news is, you don't have to rely on cloud-based services to use DeepSeek.
+
+83
+00:06:19,040 --> 00:06:23,200
+You can run it locally, I mean it's open source. For instance, I'm running the 8 billion parameter
+
+84
+00:06:23,200 --> 00:06:29,359
+model on my MacBook Pro, the M1 chip, and it's between 4.5 to 5GB. Meanwhile, we've got the 14
+
+85
+00:06:29,359 --> 00:06:34,239
+billion parameter model running on our in-house server downstairs, and that's about 9GB. That
+
+86
+00:06:34,239 --> 00:06:39,359
+means all processing happens on device, and no data is sent over the internet. If you want a more
+
+87
+00:06:39,359 --> 00:06:44,880
+user-friendly way to run this, tools like OpenWebUI or LMStudio provide a great interface for running
+
+88
+00:06:44,880 --> 00:06:50,559
+AI models locally. So no subscriptions, no data privacy concerns, just pure local AI power.
+
+89
+00:06:50,559 --> 00:06:54,559
+But here's something else to consider. If training AI becomes more accessible,
+
+90
+00:06:54,559 --> 00:06:59,679
+it might actually create even more demand for AI infrastructure. And the lower barrier to entry
+
+91
+00:06:59,679 --> 00:07:05,040
+means more startups, research labs, and even individuals could jump into the AI game. And
+
+92
+00:07:05,040 --> 00:07:10,239
+inference, which is the process of using AI models, still requires massive amounts of computing power,
+
+93
+00:07:10,239 --> 00:07:14,160
+and that's where Nvidia still has an edge. Ironically, this could end up benefiting
+
+94
+00:07:14,160 --> 00:07:18,239
+Nvidia in the long run. Who knows? The initial stock dip could be just a temporary
+
+95
+00:07:18,239 --> 00:07:22,799
+market overreaction before the demand for AI infrastructure explodes again,
+
+96
+00:07:22,799 --> 00:07:26,000
+because we now know it can be cheaper to run these companies, right?
+
+97
+00:07:26,000 --> 00:07:29,760
+So what do you think? Is this the beginning of open-source AI revolution,
+
+98
+00:07:29,760 --> 00:07:33,920
+or just another hype cycle? Drop your thoughts in the comments section below. And if you enjoyed
+
+99
+00:07:33,920 --> 00:07:38,640
+this breakdown, do not forget to subscribe for more insights on how AI is shaping the future.
+
+100
+00:07:38,640 --> 00:07:42,959
+Until next time, stay curious and stay ahead of the curve. Catch you in the next video.
+
+101
+00:07:44,480 --> 00:07:46,880
+Cuidate!
+
+
